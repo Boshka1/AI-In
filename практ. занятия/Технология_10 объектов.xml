@@ -1,0 +1,146 @@
+<?xml version="1.0" standalone="yes"?>
+<GeometryData>
+  <xs:schema id="GeometryData" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="GeometryData" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="GeometryParameters">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Объект" type="xs:string" minOccurs="0" />
+                <xs:element name="Форма" type="xs:string" minOccurs="0" />
+                <xs:element name="Длина" type="xs:string" minOccurs="0" />
+                <xs:element name="Ширина" type="xs:string" minOccurs="0" />
+                <xs:element name="Радиус" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="ObjectRelations">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="_x0030_" type="xs:string" minOccurs="0" />
+                <xs:element name="_x0031_" type="xs:string" minOccurs="0" />
+                <xs:element name="_x0032_" type="xs:string" minOccurs="0" />
+                <xs:element name="_x0033_" type="xs:string" minOccurs="0" />
+                <xs:element name="_x0034_" type="xs:string" minOccurs="0" />
+                <xs:element name="_x0035_" type="xs:string" minOccurs="0" />
+                <xs:element name="_x0036_" type="xs:string" minOccurs="0" />
+                <xs:element name="_x0037_" type="xs:string" minOccurs="0" />
+                <xs:element name="_x0038_" type="xs:string" minOccurs="0" />
+                <xs:element name="_x0039_" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <GeometryParameters>
+    <Объект>1</Объект>
+    <Форма>прямоугольник</Форма>
+    <Длина>15</Длина>
+    <Ширина>10</Ширина>
+  </GeometryParameters>
+  <GeometryParameters>
+    <Объект>2</Объект>
+    <Форма>прямоугольник</Форма>
+    <Длина>14</Длина>
+    <Ширина>10</Ширина>
+  </GeometryParameters>
+  <GeometryParameters>
+    <Объект>3</Объект>
+    <Форма>прямоугольник</Форма>
+    <Длина>13</Длина>
+    <Ширина>10</Ширина>
+  </GeometryParameters>
+  <GeometryParameters>
+    <Объект>4</Объект>
+    <Форма>прямоугольник</Форма>
+    <Длина>12</Длина>
+    <Ширина>10</Ширина>
+  </GeometryParameters>
+  <GeometryParameters>
+    <Объект>5</Объект>
+    <Форма>прямоугольник</Форма>
+    <Длина>11</Длина>
+    <Ширина>10</Ширина>
+  </GeometryParameters>
+  <GeometryParameters>
+    <Объект>6</Объект>
+    <Форма>прямоугольник</Форма>
+    <Длина>10</Длина>
+    <Ширина>10</Ширина>
+  </GeometryParameters>
+  <GeometryParameters>
+    <Объект>7</Объект>
+    <Форма>прямоугольник</Форма>
+    <Длина>9</Длина>
+    <Ширина>10</Ширина>
+  </GeometryParameters>
+  <GeometryParameters>
+    <Объект>8</Объект>
+    <Форма>круг</Форма>
+    <Радиус>7</Радиус>
+  </GeometryParameters>
+  <GeometryParameters>
+    <Объект>9</Объект>
+    <Форма>круг</Форма>
+    <Радиус>5</Радиус>
+  </GeometryParameters>
+  <GeometryParameters>
+    <Объект>10</Объект>
+    <Форма>прямоугольник</Форма>
+    <Длина>20</Длина>
+    <Ширина>5</Ширина>
+  </GeometryParameters>
+  <ObjectRelations>
+    <_x0030_>1</_x0030_>
+    <_x0031_>9</_x0031_>
+    <_x0032_>2</_x0032_>
+    <_x0033_>10</_x0033_>
+  </ObjectRelations>
+  <ObjectRelations>
+    <_x0030_>2</_x0030_>
+    <_x0031_>1</_x0031_>
+    <_x0032_>3</_x0032_>
+  </ObjectRelations>
+  <ObjectRelations>
+    <_x0030_>3</_x0030_>
+    <_x0031_>2</_x0031_>
+    <_x0032_>4</_x0032_>
+  </ObjectRelations>
+  <ObjectRelations>
+    <_x0030_>4</_x0030_>
+    <_x0031_>3</_x0031_>
+    <_x0032_>5</_x0032_>
+  </ObjectRelations>
+  <ObjectRelations>
+    <_x0030_>5</_x0030_>
+    <_x0031_>4</_x0031_>
+    <_x0032_>6</_x0032_>
+  </ObjectRelations>
+  <ObjectRelations>
+    <_x0030_>6</_x0030_>
+    <_x0031_>5</_x0031_>
+    <_x0032_>7</_x0032_>
+  </ObjectRelations>
+  <ObjectRelations>
+    <_x0030_>7</_x0030_>
+    <_x0031_>6</_x0031_>
+    <_x0032_>8</_x0032_>
+  </ObjectRelations>
+  <ObjectRelations>
+    <_x0030_>8</_x0030_>
+    <_x0031_>7</_x0031_>
+    <_x0032_>9</_x0032_>
+  </ObjectRelations>
+  <ObjectRelations>
+    <_x0030_>9</_x0030_>
+    <_x0031_>8</_x0031_>
+    <_x0032_>1</_x0032_>
+  </ObjectRelations>
+  <ObjectRelations>
+    <_x0030_>10</_x0030_>
+    <_x0031_>1</_x0031_>
+  </ObjectRelations>
+</GeometryData>
